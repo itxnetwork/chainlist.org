@@ -11179,6 +11179,19 @@
   "faucets": [],
   "infoURL": "https://explorer.dotblox.io"
 }, {
+  "name": "MO Mainnet",
+  "chainId": 7924,
+  "shortName": "MO",
+  "networkId": 7924,
+  "nativeCurrency": {
+    "name": "MO",
+    "symbol": "MO",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.mochain.app/"],
+  "faucets": ["https://faucet.mochain.app/"],
+  "infoURL": "https://mochain.app"
+}, {
   "name": "DOS Chain",
   "chainId": 7979,
   "shortName": "dos",
@@ -12205,6 +12218,19 @@
   "rpc": ["https://test-evm-api.carbon.network/"],
   "faucets": [],
   "infoURL": "https://carbon.network/"
+}, {
+  "name": "OptimusZ7 Mainnet",
+  "chainId": 9797,
+  "shortName": "OZ7m",
+  "networkId": 9797,
+  "nativeCurrency": {
+    "name": "OptimusZ7",
+    "symbol": "OZ7",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.optimusz7.com"],
+  "faucets": [],
+  "infoURL": "http://optimusz7.com"
 }, {
   "name": "IMPERIUM TESTNET",
   "chainId": 9818,
@@ -16346,7 +16372,7 @@
   "networkId": 83872,
   "nativeCurrency": {
     "name": "Zedxion",
-    "symbol": "zedx",
+    "symbol": "ZEDX",
     "decimals": 9
   },
   "rpc": ["https://mainnet-rpc.zedscan.net"],
@@ -16638,6 +16664,19 @@
   "rpc": ["https://node.greenchain.app/rpc/"],
   "faucets": [],
   "infoURL": "https://www.greenchain.app"
+}, {
+  "name": "OptimusZ7 Testnet",
+  "chainId": 97970,
+  "shortName": "OZ7t",
+  "networkId": 97970,
+  "nativeCurrency": {
+    "name": "OptimusZ7",
+    "symbol": "OZ7",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.optimusz7.com"],
+  "faucets": ["https://faucet.optimusz7.com"],
+  "infoURL": "http://optimusz7.com"
 }, {
   "name": "Ebi Chain",
   "chainId": 98881,

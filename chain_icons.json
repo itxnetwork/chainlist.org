@@ -1407,6 +1407,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "OZ7Icon",
+  "icons": [{
+    "url": "ipfs://Qmerd9Q3otjDuQAFbdiQyUnZk7UfPvkCr21E5N4VCNvhbj",
+    "width": 493,
+    "height": 506,
+    "format": "png"
+  }]
+}, {
   "name": "won",
   "icons": [{
     "url": "ipfs://QmQ6mjKWJQ5WmFiJzcqJnuHWZK53nQYJB1SnMQZEqgr74h",
@@ -2108,6 +2116,14 @@
     "url": "ipfs://bafkreigcquvoalec3ll2m26v4wsx5enlxwyn6nk2mgfqwncyqrgwivla5u",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "mo",
+  "icons": [{
+    "url": "ipfs://QmfJYJiR7L8xMG3KAWroVA9CQEfRGcbprC4JmVsiVk1E4e",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -3556,6 +3572,14 @@
     "url": "ipfs://QmVbzZYXdVFY3uFaWQd7iSRtdM2UKWohj9fVqqEwxcw2RV",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "zedx",
+  "icons": [{
+    "url": "ipfs://QmZ5DXJVxuMRvKzKstFte3TahJ4LSDsGd8DWTrYEPbSjTu",
+    "width": 254,
+    "height": 254,
     "format": "png"
   }]
 }, {
