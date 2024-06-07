@@ -1175,6 +1175,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "treasureruby",
+  "icons": [{
+    "url": "ipfs://QmbALStb7WtVPHMdwp5DBhE1pUs9QdTgYU1XqRnyJKobE4",
+    "width": 24,
+    "height": 24,
+    "format": "svg"
+  }]
+}, {
   "name": "G8Chain",
   "icons": [{
     "url": "ipfs://QmbkCVC5vZpVAfq8SuPXR9PhpTRS2m8w6LGqBkhXAvmie6",
@@ -2263,6 +2271,14 @@
     "format": "png"
   }]
 }, {
+  "name": "treasure",
+  "icons": [{
+    "url": "ipfs://Qmd532nWBVgUJy8m9ajGKwb2oaFPdnB7Xngepge2sarNBm",
+    "width": 24,
+    "height": 24,
+    "format": "svg"
+  }]
+}, {
   "name": "miyou",
   "icons": [{
     "url": "ipfs://QmfP1QDK42B7EzYWsYN2PGfjkZUQtSjm1k5gNNT52ixsKL",
@@ -2813,6 +2829,14 @@
     "width": 1844,
     "height": 1920,
     "format": "png"
+  }]
+}, {
+  "name": "atlas",
+  "icons": [{
+    "url": "ipfs://QmcSWGcoqC3y8VKahRdqPDgD68rr6A1gWVQPRt5FcpgWmG",
+    "width": 587,
+    "height": 174,
+    "format": "svg"
   }]
 }, {
   "name": "tritanium",
@@ -3452,6 +3476,14 @@
     "url": "ipfs://QmR3gooSiRfCuryT2y7Q37a3DqmdCKvV6vYp1fVpJW3VWz",
     "width": 800,
     "height": 800,
+    "format": "png"
+  }]
+}, {
+  "name": "eram",
+  "icons": [{
+    "url": "ipfs://QmQyu82MtGVLYMwCc5rseNXDV12V3UUX7iNq8q86SyeaPh",
+    "width": 258,
+    "height": 258,
     "format": "png"
   }]
 }, {

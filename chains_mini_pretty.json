@@ -11929,7 +11929,7 @@
     "symbol": "tEVMOS",
     "decimals": 18
   },
-  "rpc": ["https://evmos-testnet.lava.build", "https://eth.bd.evmos.dev:8545"],
+  "rpc": ["https://evmos-testnet.lava.build", "https://eth.bd.evmos.dev:8545", "https://evmos-testnet-evm-rpc.publicnode.com", "wss://evmos-testnet-evm-rpc.publicnode.com"],
   "faucets": ["https://faucet.evmos.dev"],
   "infoURL": "https://evmos.org"
 }, {
@@ -11942,7 +11942,7 @@
     "symbol": "EVMOS",
     "decimals": 18
   },
-  "rpc": ["https://evmos.lava.build", "wss://evmos.lava.build/websocket", "https://evmos-evm.publicnode.com", "wss://evmos-evm.publicnode.com"],
+  "rpc": ["https://evmos.lava.build", "wss://evmos.lava.build/websocket", "https://evmos-evm-rpc.publicnode.com", "wss://evmos-evm-rpc.publicnode.com"],
   "faucets": [],
   "infoURL": "https://evmos.org"
 }, {
@@ -16336,7 +16336,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.blast.io", "https://rpc.ankr.com/blast", "https://blast.din.dev/rpc", "https://blastl2-mainnet.public.blastapi.io", "https://blast.blockpi.network/v1/rpc/public"],
+  "rpc": ["https://rpc.blast.io", "https://rpc.ankr.com/blast", "https://blast.din.dev/rpc", "https://blastl2-mainnet.public.blastapi.io", "https://blast.blockpi.network/v1/rpc/public", "https://blast-rpc.publicnode.com"],
   "faucets": [],
   "infoURL": "https://blast.io/"
 }, {
@@ -17236,6 +17236,19 @@
   "rpc": ["https://rpc.node1.etnd.pro/"],
   "faucets": [],
   "infoURL": "https://www.etnd.pro"
+}, {
+  "name": "Form Testnet",
+  "chainId": 132902,
+  "shortName": "formtestnet",
+  "networkId": 132902,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.form.network/http", "wss://testnet-rpc.form.network/ws"],
+  "faucets": ["https://info.form.network/faucet"],
+  "infoURL": "https://form.network/details"
 }, {
   "name": "MagApe Testnet",
   "chainId": 141319,
@@ -18589,6 +18602,19 @@
   "faucets": [],
   "infoURL": "https://www.hypra.network"
 }, {
+  "name": "Atlas",
+  "chainId": 622463,
+  "shortName": "atlas-testnet",
+  "networkId": 622463,
+  "nativeCurrency": {
+    "name": "ATLAS",
+    "symbol": "ATLAS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.atl.network"],
+  "faucets": [],
+  "infoURL": "https://atl.network"
+}, {
   "name": "Bear Network Chain Mainnet",
   "chainId": 641230,
   "shortName": "BRNKC",
@@ -18705,6 +18731,19 @@
   "rpc": ["https://evm-rpc-arctic-1.sei-apis.com", "https://evm-rpc.arctic-1.seinetwork.io"],
   "faucets": ["https://sei-faucet.nima.enterprises", "https://sei-evm.faucetme.pro"],
   "infoURL": "https://www.sei.io"
+}, {
+  "name": "ERAM Mainnet",
+  "chainId": 721529,
+  "shortName": "ERAM",
+  "networkId": 721529,
+  "nativeCurrency": {
+    "name": "ERAM",
+    "symbol": "ERAM",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.eramscan.com"],
+  "faucets": [],
+  "infoURL": "http://doc.eramscan.com/"
 }, {
   "name": "Hemi Sepolia",
   "chainId": 743111,
@@ -19056,6 +19095,19 @@
   "rpc": ["https://host-76-74-28-226.contentfabric.io/eth/", "https://host-76-74-28-232.contentfabric.io/eth/", "https://host-76-74-29-2.contentfabric.io/eth/", "https://host-76-74-29-8.contentfabric.io/eth/", "https://host-76-74-29-34.contentfabric.io/eth/", "https://host-76-74-29-35.contentfabric.io/eth/", "https://host-154-14-211-98.contentfabric.io/eth/", "https://host-154-14-192-66.contentfabric.io/eth/", "https://host-60-240-133-202.contentfabric.io/eth/", "https://host-64-235-250-98.contentfabric.io/eth/"],
   "faucets": [],
   "infoURL": "https://eluv.io"
+}, {
+  "name": "Treasure Ruby",
+  "chainId": 978657,
+  "shortName": "treasure-ruby",
+  "networkId": 978657,
+  "nativeCurrency": {
+    "name": "Testnet MAGIC",
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.treasure.lol/http", "wss://rpc-testnet.treasure.lol/ws"],
+  "faucets": ["https://portal.treasure.lol/faucet"],
+  "infoURL": "https://portal.treasure.lol"
 }, {
   "name": "Forma",
   "chainId": 984122,
